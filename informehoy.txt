@@ -2,3 +2,5 @@ hoy los temas tratados son:
 
 
 que es un sistema de control de versiones:
+
+creando ramas para no alterar el area de trabajo
